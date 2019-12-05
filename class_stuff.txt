@@ -1,0 +1,77 @@
+wifi-user
+Werk71+HR
+
+GIT Commands
+#setup commands
+git config --global user.name "<firstname lastname>"
+git config --global user.email "<email>"
+
+git clone "<personal repository path>"
+git remote add upstream "<CyperTrainingUSAF path>"
+git remote -v
+git fetch upstream
+git merge upstream/master
+
+git status
+git add .
+git commit -m "<message>"
+git push origin master
+
+git restore --staged .
+
+
+
+
+
+#################################################################################
+
+--------------------Tims Auto--------------------header
+        Where you break it and we fix it!         slogan (pad 8)
+-------------------------------------------------line_break (49)
+ => main
+
+    (1) Enter a new employee
+    (2) Calculate employee weekly gross pay
+    (3) Exit
+
+-------------------------------------------------line_break
+What would you like to do?  2 
+
+    TIC-TAC-TOE        
+__________________
+|     |     |     |
+|  _  |  _  |  _  |
+|     |     |     |
+|  _  |  _  |  _  |
+|     |     |     |
+|  _  |  _  |  _  |
+|_____|_____|_____|
+
+
+
+----------------------------------
+      ## Email Helper 1.0 ##      
+----------------------------------
+ => main
+
+    (1) Lookup email by name
+    (2) Add a new email
+    (3) Change an email
+    (4) Delete an email
+    (5) Exit
+
+----------------------------------
+What would you like to do? 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
